@@ -1,0 +1,19 @@
+h1{
+    background-color: bisque;
+}
+div{
+    background-color: blue;
+}
+ul{
+    background-color: chartreuse;
+}
+ol{
+    background-color: chocolate;
+}
+a{
+    background-color: rgb(225, 101, 101);
+    color: black;
+}
+span{
+    background-color: coral;
+}
